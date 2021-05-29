@@ -1,4 +1,4 @@
-# ARB
+# A novel shape matching descriptor for real-time hand gesture recognition
 
 This repo provides the datasets used in the following paper along with visualization code in MATLAB:
 
