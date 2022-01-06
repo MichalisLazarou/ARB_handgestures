@@ -19,8 +19,6 @@ If you find this repo useful for your research, please consider citing the paper
   year={2021},
   publisher={Elsevier}
 }
-
-
 ```
 
 ## Contacts
